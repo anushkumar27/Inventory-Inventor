@@ -9,6 +9,6 @@ This app helps us to keep track of inventory and help predict inventory for the 
 <br/>
 <img src="Screenshots/Screenshot_3.png" width="350px"/>
 <br/>
-<img src="Screenshots/Screenshot_4.png." width="350px"/>
+<img src="Screenshots/Screenshot_4.png."/>
 
 <p>Many more features - Comming Soon!</p>
