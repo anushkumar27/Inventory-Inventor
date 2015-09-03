@@ -1,4 +1,5 @@
-<h1><img src="icon.png" width="50px" height="50px"/> Inventory-Inventor</h1>
+<h1><img src="icon.png" width="30px" height="30px"/>Inventory-Inventor</h1>
+<br/>
 <p>A Invertory managment and inventory prediction app. 
 This app helps us to keep track of inventory and help predict inventory for the upcomming week using the sales data recorded.</p>
 <br/>
@@ -11,4 +12,4 @@ This app helps us to keep track of inventory and help predict inventory for the 
 <br/>
 <img src="Screenshots/Screenshot_4.png" heigh="350px"/>
 
-<p>Many more features - Comming Soon!</p>
+<p><strong>Many more features - Comming Soon!</strong></p>
