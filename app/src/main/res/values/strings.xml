@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inventory Inventor</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_graph">Profit Stats</string>
+    <string name="title_activity_line">Sales Stats</string>
+
+
+</resources>
